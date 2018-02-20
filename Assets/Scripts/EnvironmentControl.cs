@@ -1,15 +1,24 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class EnvironmentControl : MonoBehaviour
 {
     public Transform hoverCraft;
     public GameObject land;
     public GameObject water;
+    public GameObject numPadUI;
+    public Transform mass;
+
+    public Button massBtn;
+    public Button upwardForceBtn;
+    public Button forwardForceBtn;
 
     private Vector3 startPos;
     private Quaternion startRot;
+    private Vector3 massStartPos;
+    private Quaternion massStartRot;
     private AltHoverControl altHoverControl;
 
 	// Use this for initialization
@@ -18,14 +27,23 @@ public class EnvironmentControl : MonoBehaviour
         startPos = hoverCraft.position;
         startRot = hoverCraft.rotation;
         altHoverControl = hoverCraft.GetComponent<AltHoverControl>();
+
+        massStartPos = mass.position;
+        massStartRot = mass.rotation;
 	}
 
     public void StartOver()
     {
         hoverCraft.position = startPos;
         hoverCraft.rotation = startRot;
+        mass.position = massStartPos;
+        mass.rotation = massStartRot;
         altHoverControl.CutFans();
         altHoverControl.FullStop();
+        numPadUI.SetActive(false);
+        upwardForceBtn.image.color = Color.white;
+        forwardForceBtn.image.color = Color.white;
+        massBtn.image.color = Color.white;
     }
 
     public void ToggleGround ()
