@@ -10,10 +10,13 @@ public class EnvironmentControl : MonoBehaviour
     public GameObject water;
     public GameObject numPadUI;
     public Transform mass;
+    public Transform stopBlock;
 
     public Button massBtn;
     public Button upwardForceBtn;
     public Button forwardForceBtn;
+
+    public float offset;
 
     private Vector3 startPos;
     private Quaternion startRot;
@@ -24,20 +27,14 @@ public class EnvironmentControl : MonoBehaviour
 	// Use this for initialization
 	void Start ()
     {
-        startPos = hoverCraft.position;
-        startRot = hoverCraft.rotation;
         altHoverControl = hoverCraft.GetComponent<AltHoverControl>();
-
-        massStartPos = mass.position;
-        massStartRot = mass.rotation;
 	}
 
     public void StartOver()
     {
-        hoverCraft.position = startPos;
-        hoverCraft.rotation = startRot;
-        mass.position = massStartPos;
-        mass.rotation = massStartRot;
+        hoverCraft.position = stopBlock.position + stopBlock.right * offset;
+        hoverCraft.rotation = stopBlock.rotation;
+
         altHoverControl.CutFans();
         altHoverControl.FullStop();
         numPadUI.SetActive(false);
