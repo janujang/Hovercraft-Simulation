@@ -470,23 +470,20 @@
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.TilemapModule.dll">
-      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.TilemapModule.dll">
+      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UIElementsModule.dll">
+      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
@@ -494,17 +491,17 @@
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.PhysicsModule.dll">
+      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.SpriteMaskModule.dll">
+      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.VRModule.dll">
-      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
@@ -512,23 +509,29 @@
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityWebRequestWWWModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.VRModule.dll">
+      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityConnectModule.dll">
-      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UIModule.dll">
+      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityConnectModule.dll">
+      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
@@ -539,17 +542,17 @@
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.PhysicsModule.dll">
-      <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AudioModule.dll">
-      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AnimationModule.dll">
+      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AudioModule.dll">
+      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
@@ -560,23 +563,20 @@
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AnimationModule.dll">
-      <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.JSONSerializeModule.dll">
+      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.InputModule.dll">
+      <PackagePath>UnityEngine.InputModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.JSONSerializeModule.dll">
-      <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
@@ -587,17 +587,17 @@
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.InputModule.dll">
-      <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.GridModule.dll">
-      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.DirectorModule.dll">
+      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.GridModule.dll">
+      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
@@ -616,6 +616,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\TextMeshPro-2017.3-1.0.56-Runtime.dll">
+      <PackagePath>TextMeshPro-2017.3-1.0.56-Runtime.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>

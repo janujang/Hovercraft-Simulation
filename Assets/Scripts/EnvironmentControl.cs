@@ -29,7 +29,11 @@ public class EnvironmentControl : MonoBehaviour
     {
         altHoverControl = hoverCraft.GetComponent<AltHoverControl>();
 	}
-
+    public void Loop()
+    {
+        hoverCraft.position = stopBlock.position + stopBlock.right * offset;
+        hoverCraft.rotation = stopBlock.rotation;
+    }
     public void StartOver()
     {
         hoverCraft.position = stopBlock.position + stopBlock.right * offset;

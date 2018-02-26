@@ -9,7 +9,7 @@ Hovercraft.sln: modified
 project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Hovercraft\App.cs: 1C33BF6FC97722F7EE91853821810299
-Hovercraft\Hovercraft.csproj: B3919A45E53ED82DE44B544F0A80512C
+Hovercraft\Hovercraft.csproj: 049304D4A37F5B0F620F9EC9BCDCBC29
 Hovercraft\Hovercraft.csproj.user: modified
 Hovercraft\Package.appxmanifest: B3B875A79F98FD26430937EC67224DDC
 Hovercraft\project.json: 1D02BC64BAC0D041019673A1C4C51737

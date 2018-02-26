@@ -301,3 +301,5 @@ C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercr
 C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\bin\x86\Debug\TextMeshPro-2017.3-1.0.56-Runtime.dll
+C:\Users\Janujan Gathieswaran\Documents\GitHub\Hovercraft-Simulation\UWP\Hovercraft\bin\x86\Debug\TextMeshPro-2017.3-1.0.56-Runtime.pdb
